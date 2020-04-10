@@ -1,5 +1,5 @@
 # AI_project
-just edit the location of the the csv file if the code is not working 
+just edit the location of the the csv file according to director u have if the code is not working 
 ========================================================
 code in txt format
 ===========================================================
